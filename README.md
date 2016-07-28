@@ -23,4 +23,4 @@ this is data acquisition about battery , CPU , memory and memory leak is base on
    ```
 
 ###Result
-![github](http://github.com/unicorn.png "github")  
+![github](https://github.com/VincyH/Data-Acquisition/blob/master/pic.png "github")  
