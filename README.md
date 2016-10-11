@@ -1,7 +1,7 @@
 # Data-Acquisition
 
 ##Abstract
-this is data acquisition about battery , CPU , memory and memory leak is base on uiautomator(1.0 or 2.0) automated test scripts
+this is data acquisition about battery , CPU , memory and memory leak is base on uiautomator or other UI automated test scripts that base on junit
 
 ##Usage
 
